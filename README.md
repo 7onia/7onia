@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7onia
+- 👋 Hi, I’m Tonia Ieronymaki
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on a famous company.
